@@ -6,7 +6,6 @@ Olá! Eu sou a Aline Rodrigues
 - 🤔 Procuro ajuda com técnicas avançadas de CSS e animações web, para criar interfaces mais dinâmicas e responsivas.
 - 💬 Pergunte-me sobre minha experiência com projetos responsivos e como otimizo websites para diferentes dispositivos
 - 📫 Você pode me contatar pelo LinkedIn: https://www.linkedin.com/in/aline-rodrigues-pereira-47589a110/
-- 😄 Ela/Dela
 - ⚡ Um fato interessante sobre mim é que comecei a programar por curiosidade e rapidamente se tornou minha paixão e carreira.
 
 ### 👩‍💻 Linguagens e Tecnologias
