@@ -35,3 +35,9 @@ Olá! Eu sou a Aline Rodrigues
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+## 📊 Minhas Estatísticas no GitHub
+
+![aline9402](https://github-readme-stats.vercel.app/api?username=aline9402&show_icons=true&theme=radical)
+
+## 🔝 Linguagens mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aline9402&layout=compact&theme=radical)
